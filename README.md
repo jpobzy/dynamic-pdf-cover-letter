@@ -1,0 +1,1 @@
+# automated-dynamic-pdf-cover-letter
